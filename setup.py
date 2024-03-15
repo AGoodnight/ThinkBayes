@@ -1,6 +1,6 @@
 from distutils.core import setup
 
-setup(name='ThinkBayes',
+setup(name='thinkbayes',
       version='1.0',
       description='Think Bayes Code',
       author='Allen Downey',
