@@ -1,6 +1,8 @@
 ThinkBayes
 ==========
 
+* removed the book directory and moved code out of code folder to flatten project, added setup.py
+
 Code repository for Think Bayes: Bayesian Statistics Made Simple
 by Allen B. Downey
 
